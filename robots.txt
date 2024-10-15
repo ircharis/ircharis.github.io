@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ircharis.github.io/sitemap.html.gz
+Sitemap: https://ircharis.github.io/app/sitemap.html.gz
+Sitemap: https://ircharis.github.io/assets/sitemap.html.gz
+Sitemap: https://ircharis.github.io/css/sitemap.html.gz
+Sitemap: https://ircharis.github.io/includes/sitemap.html.gz
+Sitemap: https://ircharis.github.io/item/sitemap.html.gz
+Sitemap: https://ircharis.github.io/src/sitemap.html.gz
